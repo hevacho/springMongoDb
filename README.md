@@ -26,7 +26,7 @@ http://localhost:8080/persona/all
 
 ```
 
-#### Json Sample
+#### Json Example
 
 ```
 {
