@@ -1,8 +1,8 @@
-##Basic mongoDB with spring-data
+## Basic mongoDB with spring-data
 
 Basic example of using spring-data with a mongoDB
 
-###Getting started
+### Getting started
 To run the project you need to configure the properties of mongo in application.properties
 
 ```
@@ -26,7 +26,7 @@ http://localhost:8080/persona/all
 
 ```
 
-####Json Sample
+#### Json Sample
 
 ```
 {
